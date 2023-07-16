@@ -61,4 +61,4 @@ The Google Advanced Protection Program does not allow the installation of apps f
 chmod +x gradlew
 ./gradlew assembleDebug
 ```
-
+1
